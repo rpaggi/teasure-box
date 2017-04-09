@@ -1,6 +1,9 @@
 # teasure-box
 - A repository to put links, articles, images and whatever!
 
+### April 9, 2017
+- [My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
+
 ### April 7, 2017
 - [Introdução · React: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/react-de-padawan-a-mestre-jedi/) 
 - [Adeus Flexbox, bem vindo CSS Grid Layout! by Simone Amorim on CodePen](http://codepen.io/simoneas02/post/grid-layout)
