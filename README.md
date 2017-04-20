@@ -1,6 +1,9 @@
 # teasure-box
 - A repository to put links, articles, images and whatever!
 
+### April 20, 2017
+- [jwt-auth Laravel](https://github.com/tymondesigns/jwt-auth)
+
 ### April 9, 2017
 - [My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
 
